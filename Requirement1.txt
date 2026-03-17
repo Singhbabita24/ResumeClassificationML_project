@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+spacy
+docx2txt
+pdfplumber
+requests
+scikit-learn
+PyPDF2
+nltk
+matplotlib
+joblib
+click
